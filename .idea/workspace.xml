@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9feaebc-53ff-467c-8d2b-cb8c9d1b9cde" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task7/Average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task7/AverageDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task7/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task8/Complex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task8/ComplexDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task8/UserInput.java" afterDir="false" />
+    <list default="true" id="f9feaebc-53ff-467c-8d2b-cb8c9d1b9cde" name="Changes" comment="&quot;Tasks&quot;">
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task20/Palindrom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task20/PalindromDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task21/WordLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson2/Task21/WordLengthDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +30,19 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="10094646-b51f-443c-ae3a-2ab3451a5668" />
+        <option name="url" value="https://github.com/oskarsmartinsons/Tasks.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,6 +68,14 @@
       <option name="presentableId" value="Default" />
       <updated>1673889112083</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Tasks&quot;">
+      <created>1673895219234</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673895219234</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +100,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Tasks&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Tasks&quot;" />
   </component>
 </project>
