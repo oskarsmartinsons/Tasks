@@ -5,13 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9feaebc-53ff-467c-8d2b-cb8c9d1b9cde" name="Changes" comment="&quot;Tasks&quot;">
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task3/GetGreatest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task3/GetGreatestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task3/UserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task4/Float.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task4/FloatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task4/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task16_26/DisplayPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task16_26/DisplayPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task16_26/UserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task29/Digits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task29/DigitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task30_31/IntegerChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task30_31/IntegerCheckerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Task30_31/UserInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Task4/Float.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Task4_and27_and28/Float.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Task4/FloatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Task4_and27_and28/FloatDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lesson3/Task4/UserInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Task4_and27_and28/UserInput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
